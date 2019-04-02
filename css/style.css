@@ -1,0 +1,11 @@
+body {
+    background: url("../img/bg.jpg");
+    -webkit-background-size: cover;
+    background-size: cover;
+
+}
+.js-tree {
+    display: flex;
+    justify-content: center;
+    top: 20%;
+}
